@@ -1,0 +1,29 @@
+/* common */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  vertical-align: bottom; /* デフォルトがbaselineなため */
+}
+
+h1,
+p{
+  margin: 0;
+}
+
+/* header */
+header{
+  background: #efefef;
+}
+
+header .container {
+  width: 400px;
+  margin: 0 auto;
+  outline: 2px solid red;
+}
+
+/* main */
+
+/* footer */
